@@ -15,6 +15,6 @@ So, why not have all the board variants needed? Here is the 644/1284 Wide & powe
 
 ![image](https://github.com/mrguen/644-1284-Regular-Power/blob/main/images/3%20variants.jpg)
 
-https://github.com/mrguen/644-1284-Regular-Power/blob/main/images/644-1284%20Wide%20Pinout.png
+![image](https://github.com/mrguen/644-1284-Regular-Power/blob/main/images/644-1284%20Wide%20Pinout.png)
 
-https://github.com/mrguen/644-1284-Regular-Power/blob/main/images/644-1284%20Power%20pinout.png
+![image](https://github.com/mrguen/644-1284-Regular-Power/blob/main/images/644-1284%20Power%20pinout.png)
