@@ -6,10 +6,10 @@ Many new performing chips are working in 3.3 volts so it might be useful to have
 
 So, why not have all the board variants needed? Here is the 644/1284 Wide & power offer:
 
-•	644 Wide 3.3V
-•	644 Wide 5V
-•	644 Power 5V
-•	1284 Wide 3.3V
-•	1284 Wide 5V
-•	1284 Power 5V
+•	644 Wide 3.3V 
+•	644 Wide 5V 
+•	644 Power 5V 
+•	1284 Wide 3.3V 
+•	1284 Wide 5V 
+•	1284 Power 5V 
 
